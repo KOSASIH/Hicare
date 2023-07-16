@@ -96,7 +96,7 @@ We welcome contributions to HiCare! If you're interested in contributing, please
 
 ## License
 
-HiCare is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the software in accordance with the license terms.
+HiCare is released under the [MIT License](https://github.com/KOSASIH/Hicare/blob/main/LICENSE). Feel free to use, modify, and distribute the software in accordance with the license terms.
 
 ---
 *Note: HiCare is a fictional project created for the purpose of this readme file.*
