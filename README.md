@@ -66,7 +66,7 @@ The HiCare platform is built on a microservices architecture, which offers scala
 
 To get started with HiCare, follow these steps:
 
-1. Clone the HiCare repository from [GitHub](https://github.com/hicare-repo).
+1. Clone the HiCare repository from [GitHub](https://github.com/KOSASIH/Hicare).
 
 2. Install the necessary dependencies for each microservice by following the provided documentation.
 
