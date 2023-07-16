@@ -92,7 +92,7 @@ Once HiCare is set up and running, the platform can be used for various purposes
 
 ## Contributing
 
-We welcome contributions to HiCare! If you're interested in contributing, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file in the HiCare repository.
+We welcome contributions to HiCare! If you're interested in contributing, please follow the guidelines outlined in the [CONTRIBUTING.md](https://github.com/KOSASIH/.github/blob/master/CONTRIBUTING.md) file in the HiCare repository.
 
 ## License
 
